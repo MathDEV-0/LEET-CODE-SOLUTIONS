@@ -34,4 +34,4 @@ resposta3 = c.twoSum(nums3,target3)
 d = Solution()
 nums4 = [3,3,9]
 target4 = 12
-resposta4 = c.twoSum(nums4,target4)
+resposta4 = d.twoSum(nums4,target4)
