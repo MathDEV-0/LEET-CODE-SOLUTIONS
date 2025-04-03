@@ -35,3 +35,8 @@ d = Solution()
 nums4 = [3,3,9]
 target4 = 12
 resposta4 = d.twoSum(nums4,target4)
+
+print(resposta1)
+print(resposta2)
+print(resposta3)
+print(resposta4)
